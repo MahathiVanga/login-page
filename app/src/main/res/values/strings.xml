@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">login page</string>
+    <string name="login">Login</string>
+    <string name="login_button">LOGIN</string>
+    <string name="Username" tools:ignore="DuplicateDefinition">Username</string>
+    <string name="password" tools:ignore="DuplicateDefinition">Password</string>
+    <string name="signup_text">Not yet registered? Signup Now</string>
+    <string name="category_button">Categories</string>
+    <string name="offers_button">Offers</string>
+    <string name="welcome_text">Welcome to the Store</string>
+
+    <string name="register_text">Register</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button_text">Register</string>
+    <string name="login_text">Already have an account? Log in</string>
+    <string name="register_button_description">Register new user</string>
+
+    <string name="add_to_cart_button_text">Add to Cart</string>
+</resources>
